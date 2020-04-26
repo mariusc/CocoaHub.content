@@ -1,0 +1,16 @@
+{
+    "edition": 46,
+    "title": "Upgrading a server-side Swift project to Vapor 4",
+    "url": "https://www.vknabel.com/pages/Upgrading-a-server-side-Swift-project-to-Vapor-4/",
+    "author": {
+        "name": "Valentin Knabel",
+        "url": "https://twitter.com/vknabel"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "server"
+    ]
+}
