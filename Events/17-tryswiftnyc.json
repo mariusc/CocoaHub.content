@@ -9,7 +9,7 @@
     "tags": [
         "tickets"
     ],
-    "isActive": true,
+    "isActive": false,
     "coordinates": {
         "latitute": 40.762852,
         "longitude": -73.987525
