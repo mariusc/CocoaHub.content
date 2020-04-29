@@ -1,0 +1,12 @@
+{
+    "title" : "First version of Apple's COVID-19 exposure notification API",
+    "description" : "Apple's latest beta for iOS 13.5 contains the first version of its exposure notification API for COVID-19 contact tracing.",
+    "url" : "https://9to5mac.com/2020/04/29/ios-13-5-beta-covid-19-contact-tracing/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "press"
+    ]
+}
