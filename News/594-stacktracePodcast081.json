@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 081: “A good old fashioned roadmap”",
+    "description" : "John Sundell and Gui Rambo talk about building scalable code bases using the MVC design pattern, how Apple's pro-level apps might look like if ported to the iPad, and more.",
+    "url" : "https://9to5mac.com/2020/04/29/stacktrace-podcast-081-a-good-old-fashioned-roadmap/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
