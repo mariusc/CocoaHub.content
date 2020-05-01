@@ -1,0 +1,17 @@
+{
+    "edition": 47,
+    "title": "Different approach to Attributed Strings in Swift",
+    "url": "https://sunshinejr.com/2020/04/30/different-approach-to-attributed-strings-in-swift/",
+    "author": {
+        "name": "Łukasz Mróz",
+        "url": "https://twitter.com/thesunshinejr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language",
+        "ui"
+    ]
+}

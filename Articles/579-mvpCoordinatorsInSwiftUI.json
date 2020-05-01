@@ -1,0 +1,16 @@
+{
+    "edition": 47,
+    "title": "MVP + Coordinators in SwiftUI (part 1)",
+    "url": "https://lascorbe.com/posts/2020-04-27-MVPCoordinators-SwiftUI-part1/",
+    "author": {
+        "name": "Luis Lascorbe",
+        "url": "https://twitter.com/Lascorbe"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

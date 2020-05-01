@@ -1,0 +1,16 @@
+{
+    "edition": 47,
+    "title": "How to Enable Custom Debugging in Release Builds",
+    "url": "https://andrewking.ca/2020/04/how-to-enable-custom-debugging-in-release-builds/",
+    "author": {
+        "name": "Andrew King",
+        "url": "https://twitter.com/andrewkingbk"
+    },
+    "curator": {
+        "name": "Andrew King",
+        "url": "https://twitter.com/andrewkingbk"
+    },
+    "tags": [
+        "debugging"
+    ]
+}

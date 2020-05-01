@@ -1,0 +1,16 @@
+{
+    "edition": 47,
+    "title": "Discovering which DispatchQueue a method is running on",
+    "url": "https://swiftrocks.com/discovering-which-dispatchqueue-a-method-is-running-on",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

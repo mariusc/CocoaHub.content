@@ -1,0 +1,16 @@
+{
+    "edition": 47,
+    "title": "Sign in with Apple using Vapor 4",
+    "url": "https://theswiftdev.com/sign-in-with-apple-using-vapor-4/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "server"
+    ]
+}
