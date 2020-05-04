@@ -1,0 +1,12 @@
+{
+    "title" : "The “Composable Architecture“ library by Point-Free is now available on GitHub",
+    "description" : "This library by Stephen Celis and Brandon Williams aims to help you building applications in a consistent and understandable way, with composition, testing and ergonomics in mind.",
+    "url" : "https://github.com/pointfreeco/swift-composable-architecture",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
