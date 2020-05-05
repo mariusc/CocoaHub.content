@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0279: Multiple Trailing Closures has been accepted",
+    "description" : "“The core team feels that these aspects of the single trailing closure design must be taken as given, and that it is better to design multiple trailing closures as a consistent extension of those rules.“",
+    "url" : "https://forums.swift.org/t/accepted-se-0279-multiple-trailing-closures/36141",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
