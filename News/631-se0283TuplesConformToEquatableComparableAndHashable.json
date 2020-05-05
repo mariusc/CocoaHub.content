@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0283: Tuples Conform to Equatable, Comparable, and Hashable",
+    "description" : "Alejandro Alonso proposes introducing Equatable, Comparable and Hashable conformance for all tuples whose elements already conform to these protocols. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0283-tuples-conform-to-equatable-comparable-and-hashable/36140",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
