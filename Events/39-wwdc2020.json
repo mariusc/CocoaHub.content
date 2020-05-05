@@ -1,0 +1,13 @@
+{
+    "name": "WWDC20",
+    "url": "https://developer.apple.com/wwdc20/",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fwwdc2020.jpg?alt=media&token=2fd8d4f6-300c-4833-b4ca-0a69b6e86afd",
+    "startDate": "2020-06-22T12:00:00+0000",
+    "endDate": "2020-06-22T18:00:00+0000",
+    "country": "Anywhere",
+    "city": "Remote",
+    "tags": [
+        "remote"
+    ],
+    "isActive": true,
+}
