@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 72: “Many layers of SwiftUI“",
+    "description" : "Listen to John Sundell and his special guest, Tobias Due Munk, talk about using SwiftUI to build prototypes, how third party developers can extend SwiftUI’s built-in APIs in various ways, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/72",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
