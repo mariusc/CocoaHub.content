@@ -1,0 +1,16 @@
+{
+    "edition": 48,
+    "title": "Unit Testing Preprocessor Macros in Swift",
+    "url": "https://swiftrocks.com/unit-testing-preprocessor-macros-in-swift",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "testing"
+    ]
+}

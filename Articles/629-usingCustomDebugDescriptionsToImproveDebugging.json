@@ -1,0 +1,16 @@
+{
+    "edition": 48,
+    "title": "Using Custom debug descriptions to improve debugging",
+    "url": "https://sarunw.com/posts/how-to-make-multi-line-text-in-uibutton/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "debugging"
+    ]
+}

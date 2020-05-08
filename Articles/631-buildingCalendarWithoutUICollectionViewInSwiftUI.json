@@ -1,0 +1,16 @@
+{
+    "edition": 48,
+    "title": "Building calendar without UICollectionView in SwiftUI",
+    "url": "https://swiftwithmajid.com/2020/05/06/building-calendar-without-uicollectionview-in-swiftui/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

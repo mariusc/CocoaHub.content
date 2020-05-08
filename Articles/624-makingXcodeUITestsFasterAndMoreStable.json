@@ -1,0 +1,16 @@
+{
+    "edition": 48,
+    "title": "Making Xcode UI tests faster and more stable",
+    "url": "https://blog.bitrise.io/making-xcode-ui-tests-faster-and-more-stable",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "testing"
+    ]
+}
